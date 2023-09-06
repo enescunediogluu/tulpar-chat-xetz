@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628869147201",
+    "project_id": "tulpar-chat-xetz",
+    "storage_bucket": "tulpar-chat-xetz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628869147201:android:1d836ca53621070ca8b4c0",
+        "android_client_info": {
+          "package_name": "com.example.tulpar_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628869147201-l7snk5puvoc9fp4ekj5quj3t9vlp3gss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsInjuVWvTRgsovvDXQuTkNzKxAb6KZDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628869147201-l7snk5puvoc9fp4ekj5quj3t9vlp3gss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
